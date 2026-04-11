@@ -75,4 +75,4 @@ the Eiffel Tower is the second tallest free-standing structure in France after t
   }
   ```
 ## 6. Liên kết video demo
-(https://drive.google.com/file/d/1rcq92StkPMxlkqEspTCSjocXRzQ9XhVQ/view?usp=drive_link)
+https://drive.google.com/file/d/1rcq92StkPMxlkqEspTCSjocXRzQ9XhVQ/view?usp=drive_link
