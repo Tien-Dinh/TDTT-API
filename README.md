@@ -65,8 +65,8 @@ the Eiffel Tower is the second tallest free-standing structure in France after t
   }
   ```
   * Response (.JSON):
-    ```original_length```: độ dài gốc của đoạn văn bản đầu vào
-    ```summary_text```: đoạn văn bản sau khi đã tóm tắt
+    *  ```original_length```: độ dài gốc của đoạn văn bản đầu vào
+    *  ```summary_text```: đoạn văn bản sau khi đã tóm tắt
 
   ```bash
   {
